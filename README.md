@@ -1,4 +1,4 @@
-## Hi there # # 👋 ¡Hola! Soy **Alberto Bernal**
+## Hi there # # 👋 ¡Hola! Soy **Alberto Bernal Duplat**
 
 Soy un **Data Scientist** y **Data Analyst** especializado en **negocios**, **cultura** y **deportes**. Mi formación como **abogado** me proporciona una perspectiva única para trabajar en proyectos relacionados con la **data governance** y la **ética de los datos**, asegurando que las soluciones que desarrollo no solo sean innovadoras, sino también responsables y alineadas con las mejores prácticas legales.
 
@@ -39,7 +39,7 @@ A lo largo de mi carrera, he trabajado con datos para ayudar a las organizacione
 - Me encanta analizar datos relacionados con el rendimiento deportivo y predecir los resultados de eventos deportivos con modelos predictivos.
 
 
-# # 👋 Hello! I'm **Alberto Bernal**
+# # 👋 Hello! I'm **Alberto Bernal Duplat**
 
 I am a **Data Scientist** and **Data Analyst** specializing in **business**, **culture**, and **sports**. My background as a **lawyer** provides me with a unique perspective to work on projects related to **data governance** and **data ethics**, ensuring that the solutions I develop are not only innovative but also responsible and aligned with the best legal practices.
 
