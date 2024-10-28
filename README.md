@@ -50,7 +50,9 @@ Proyectos innovadores en el ámbito deportivo, cultural y de negocios.
 La combinación de datos cuantitativos y cualitativos en proyectos complejos y la ética de los datos.
 
 📫 Contáctame:
+
 Correo: albertobernalduplat@gmail.com
+
 LinkedIn: linkedin.com/in/alberto-bernal-duplat-90a283a2
 
 😄 Pronombres:
@@ -108,7 +110,9 @@ Innovative projects in the sports, cultural, and business sectors.
 Combining quantitative and qualitative data in complex projects and the ethics of data.
 
 📫 Contact Me
+
 Email: albertobernalduplat@gmail.com
+
 LinkedIn: linkedin.com/in/alberto-bernal-duplat-90a283a2
 😄 Pronouns
 He/Him
