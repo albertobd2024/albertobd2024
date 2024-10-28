@@ -3,9 +3,13 @@
 Soy un Data Scientist y Data Analyst especializado en negocios, cultura y deportes. Mi formación como abogado me brinda una perspectiva única en data governance y ética de los datos.
 
 🌟 Mis Áreas de Interés
+
 🏅 Análisis de Datos en Deportes: Mejora del rendimiento de atletas y equipos, generando insights valiosos para la industria.
+
 📊 Negocios y Cultura: Análisis de tendencias culturales y su impacto en estrategias comerciales.
+
 🔍 Data Governance: Gestión segura y ética de datos, alineada con regulaciones.
+
 💻 Habilidades Clave
 Lenguajes y Bibliotecas:
 
@@ -29,7 +33,7 @@ Google (Looker) 📊
 Tecnologías:
 
 Apache 🌐
-Expertise: Data governance y cumplimiento normativo
+
 
 🔭 Actualmente Estoy Trabajando en:
 Desarrollar soluciones basadas en datos para optimizar el rendimiento deportivo y mejorar la toma de decisiones empresariales.
