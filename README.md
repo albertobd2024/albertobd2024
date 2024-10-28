@@ -1,9 +1,6 @@
 
 
-
-
-
-
+![diseño ciencia de datos Alberto Bernal](https://github.com/user-attachments/assets/081e70a2-4791-4be9-8dc5-10eb0ab65934)
 
 
 👋 ¡Hola! Soy Alberto Bernal Duplat
