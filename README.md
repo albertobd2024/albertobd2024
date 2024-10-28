@@ -119,6 +119,7 @@ Combining quantitative and qualitative data in complex projects and the ethics o
 Email: albertobernalduplat@gmail.com
 
 LinkedIn: linkedin.com/in/alberto-bernal-duplat-90a283a2
+
 😄 Pronouns
 He/Him
 
