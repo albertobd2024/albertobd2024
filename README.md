@@ -1,4 +1,8 @@
 
+
+
+
+
 👋 ¡Hola! Soy Alberto Bernal Duplat
 
 Soy un Data Scientist y Data Analyst especializado en negocios, cultura y deportes. Mi formación como abogado me brinda una perspectiva única en data governance y ética de los datos.
