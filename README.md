@@ -1,5 +1,6 @@
 
 👋 ¡Hola! Soy Alberto Bernal Duplat
+
 Soy un Data Scientist y Data Analyst especializado en negocios, cultura y deportes. Mi formación como abogado me brinda una perspectiva única en data governance y ética de los datos.
 
 🌟 Mis Áreas de Interés
@@ -11,6 +12,7 @@ Soy un Data Scientist y Data Analyst especializado en negocios, cultura y deport
 🔍 Data Governance: Gestión segura y ética de datos, alineada con regulaciones.
 
 💻 Habilidades Clave
+
 Lenguajes y Bibliotecas:
 
 Python 🐍
@@ -18,7 +20,7 @@ Pandas
 NumPy
 Scikit-Learn
 TensorFlow
-Keras
+
 
 MySQL 🗄️
 
@@ -59,14 +61,21 @@ Me encanta analizar datos de rendimiento deportivo y predecir resultados de even
 
 ********************************************************************************************************************
 ********************************************************************************************************************
+
 👋 Hello! I’m Alberto Bernal Duplat
+
 I am a Data Scientist and Analyst who specializes in business, culture, and sports. My background as a lawyer provides me with a unique perspective on data governance and ethics.
 
 🌟 My Areas of Interest
+
 🏅 Sports Data Analysis: Improving the performance of athletes and teams while generating valuable insights for the industry.
+
 📊 Business and Culture: Analyzing cultural trends and their impact on business strategies.
+
 🔍 Data Governance: Ensuring data's secure and ethical management in compliance with regulations.
+
 💻 Key Skills
+
 Languages and Libraries:
 
 Python 🐍
@@ -74,18 +83,17 @@ Pandas
 NumPy
 Scikit-Learn
 TensorFlow
-Keras
-R 📊
-SQL 🗄️
+MySQL 🗄️
 Visualization:
 
 Tableau 📈
 Power BI 📊
-Google Data Wrangler (Looker) 📊
+Google (Looker) 📊
+
 Technologies:
 
 Apache 🌐
-Expertise: Data governance and regulatory compliance
+
 
 🔭 Currently Working On
 Developing data-driven solutions to optimize sports performance and enhance business decision-making.
