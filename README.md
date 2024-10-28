@@ -57,14 +57,15 @@ LinkedIn: linkedin.com/in/alberto-bernal-duplat-90a283a2
 ⚡ Dato Curioso:
 Me encanta analizar datos de rendimiento deportivo y predecir resultados de eventos con modelos predictivos.
 
-
+********************************************************************************************************************
+********************************************************************************************************************
 👋 Hello! I’m Alberto Bernal Duplat
-I am a Data Scientist and Data Analyst specialized in business, culture, and sports. My background as a lawyer provides me with a unique perspective on data governance and data ethics.
+I am a Data Scientist and Analyst who specializes in business, culture, and sports. My background as a lawyer provides me with a unique perspective on data governance and ethics.
 
 🌟 My Areas of Interest
 🏅 Sports Data Analysis: Improving the performance of athletes and teams while generating valuable insights for the industry.
 📊 Business and Culture: Analyzing cultural trends and their impact on business strategies.
-🔍 Data Governance: Ensuring the secure and ethical management of data in compliance with regulations.
+🔍 Data Governance: Ensuring data's secure and ethical management in compliance with regulations.
 💻 Key Skills
 Languages and Libraries:
 
