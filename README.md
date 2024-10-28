@@ -1,4 +1,5 @@
 
+![Data Analyst Linkedin Background ](https://github.com/user-attachments/assets/cc25d39d-08c9-4bcd-9e51-e06bbc199339)
 
 
 
