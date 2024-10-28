@@ -1,5 +1,5 @@
 
-![Diseño Alberto Bernal](https://github.com/user-attachments/assets/df02326a-898a-4df6-98c1-cc0c68e2fa0c)
+
 
 
 
