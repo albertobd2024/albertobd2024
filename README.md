@@ -1,42 +1,40 @@
-## Hi there # # 👋 ¡Hola! Soy **Alberto Bernal Duplat**
+👋 ¡Hola! Soy Alberto Bernal Duplat
+Soy un Data Scientist y Data Analyst especializado en negocios, cultura y deportes. Mi formación como abogado me brinda una perspectiva única en data governance y ética de los datos.
 
-Soy un **Data Scientist** y **Data Analyst** especializado en **negocios**, **cultura** y **deportes**. Mi formación como **abogado** me proporciona una perspectiva única para trabajar en proyectos relacionados con la **data governance** y la **ética de los datos**, asegurando que las soluciones que desarrollo no solo sean innovadoras, sino también responsables y alineadas con las mejores prácticas legales.
+Mis Áreas de Interés
+🏅 Análisis de Datos en Deportes: Mejora del rendimiento de atletas y equipos, generando insights valiosos para la industria.
+📊 Negocios y Cultura: Análisis de tendencias culturales y su impacto en estrategias comerciales.
+🔍 Data Governance: Gestión segura y ética de datos, alineada con regulaciones.
+💻 Habilidades Clave
+Python
+R
+SQL
+Visualización:
+Tableau
+Power BI
+Expertise: Data governance y cumplimiento normativo
+🔭 Actualmente Estoy Trabajando en:
+Desarrollar soluciones basadas en datos para optimizar el rendimiento deportivo y mejorar la toma de decisiones empresariales.
 
-A lo largo de mi carrera, he trabajado con datos para ayudar a las organizaciones a tomar decisiones informadas y optimizar sus procesos. Mis áreas de interés incluyen:
+🌱 Aprendiendo:
+Nuevas técnicas de machine learning y herramientas emergentes en data analytics.
 
-- 🏅 **Análisis de datos en deportes**: Uso de datos para mejorar el rendimiento de atletas y equipos, así como para generar insights valiosos para la industria deportiva.
-- 📊 **Negocios y cultura**: Análisis de tendencias culturales y su impacto en las estrategias comerciales, además de la implementación de soluciones basadas en datos para mejorar la eficiencia empresarial.
-- 🔍 **Data governance**: Asegurar que los datos se gestionen y utilicen de manera segura, ética y conforme a regulaciones.
+🤝 Buscando Colaborar en:
+Proyectos innovadores en el ámbito deportivo, cultural y de negocios.
 
-### 💻 **Habilidades clave:**
-- **Python**, **R** y **SQL** para análisis de datos y machine learning.
-- Experiencia en **Tableau**, **Power BI** y otras herramientas de visualización de datos.
-- Conocimientos profundos en **data governance** y cumplimiento normativo.
-- Habilidad para combinar datos cuantitativos y cualitativos en proyectos complejos.
+🤔 Pregúntame Sobre:
+La combinación de datos cuantitativos y cualitativos en proyectos complejos y la ética de los datos.
 
-### 🔭 **Actualmente estoy trabajando en:**
-- Desarrollar soluciones basadas en datos para optimizar el rendimiento de equipos deportivos y mejorar la toma de decisiones empresariales.
+📫 Contáctame:
+Correo: albertobernalduplat@gmail.com
+LinkedIn: linkedin.com/in/alberto-bernal-duplat-90a283a2
 
-### 🌱 **Actualmente estoy aprendiendo:**
-- Nuevas técnicas de **machine learning** y **deep learning**, así como herramientas emergentes en **data analytics**.
+😄 Pronombres:
+Él/ellos
 
-### 👯 **Estoy buscando colaborar en:**
-- Proyectos innovadores que utilicen datos para transformar industrias, especialmente en el ámbito deportivo, cultural y de negocios.
+⚡ Dato Curioso:
+Me encanta analizar datos de rendimiento deportivo y predecir resultados de eventos con modelos predictivos.
 
-### 🤔 **Estoy buscando ayuda con:**
-- Implementación de modelos avanzados de **machine learning** y **data governance** en entornos de alta regulación.
-
-### 💬 **Pregúntame sobre:**
-- Cómo combinar datos cuantitativos y cualitativos en proyectos complejos, y la ética de los datos en el contexto de la gobernanza.
-
-### 📫 **Cómo contactarme:**
-- Puedes enviarme un mensaje a mi correo electrónico: albertobernalduplat@gmail.com o a través de LinkedIn: linkedin.com/in/alberto-bernal-duplat-90a283a2
-
-### 😄 **Pronombres:**
-- Él/ellos
-
-### ⚡ **Dato curioso:**
-- Me encanta analizar datos relacionados con el rendimiento deportivo y predecir los resultados de eventos deportivos con modelos predictivos.
 
 
 # # 👋 Hello! I'm **Alberto Bernal Duplat**
