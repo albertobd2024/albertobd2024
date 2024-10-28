@@ -1,5 +1,6 @@
 
-![Data Analyst Linkedin Background ](https://github.com/user-attachments/assets/cc25d39d-08c9-4bcd-9e51-e06bbc199339)
+![Diseño Cientifico de datos  Alberto Bernal](https://github.com/user-attachments/assets/1ff11c20-fc86-42b7-a431-ca1415b829dd)
+
 
 
 
