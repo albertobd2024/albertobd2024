@@ -6,12 +6,8 @@ Mis Áreas de Interés
 📊 Negocios y Cultura: Análisis de tendencias culturales y su impacto en estrategias comerciales.
 🔍 Data Governance: Gestión segura y ética de datos, alineada con regulaciones.
 💻 Habilidades Clave
-Python
-R
-SQL
-Visualización:
-Tableau
-Power BI
+Lenguajes: Python, R, SQL
+Visualización: Tableau, Power BI
 Expertise: Data governance y cumplimiento normativo
 🔭 Actualmente Estoy Trabajando en:
 Desarrollar soluciones basadas en datos para optimizar el rendimiento deportivo y mejorar la toma de decisiones empresariales.
@@ -34,6 +30,7 @@ LinkedIn: linkedin.com/in/alberto-bernal-duplat-90a283a2
 
 ⚡ Dato Curioso:
 Me encanta analizar datos de rendimiento deportivo y predecir resultados de eventos con modelos predictivos.
+
 
 
 
