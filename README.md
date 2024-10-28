@@ -58,60 +58,66 @@ LinkedIn: linkedin.com/in/alberto-bernal-duplat-90a283a2
 Me encanta analizar datos de rendimiento deportivo y predecir resultados de eventos con modelos predictivos.
 
 
+👋 Hello! I’m Alberto Bernal Duplat
+I am a Data Scientist and Data Analyst specialized in business, culture, and sports. My background as a lawyer provides me with a unique perspective on data governance and data ethics.
+
+🌟 My Areas of Interest
+🏅 Sports Data Analysis: Improving the performance of athletes and teams while generating valuable insights for the industry.
+📊 Business and Culture: Analyzing cultural trends and their impact on business strategies.
+🔍 Data Governance: Ensuring the secure and ethical management of data in compliance with regulations.
+💻 Key Skills
+Languages and Libraries:
+
+Python 🐍
+Pandas
+NumPy
+Scikit-Learn
+TensorFlow
+Keras
+R 📊
+SQL 🗄️
+Visualization:
+
+Tableau 📈
+Power BI 📊
+Google Data Wrangler (Looker) 📊
+Technologies:
+
+Apache 🌐
+Expertise: Data governance and regulatory compliance
+
+🔭 Currently Working On
+Developing data-driven solutions to optimize sports performance and enhance business decision-making.
+
+🌱 Learning
+New techniques in machine learning and emerging tools in data analytics.
+
+🤝 Seeking Collaboration On
+Innovative projects in the sports, cultural, and business sectors.
+
+🤔 Ask Me About
+Combining quantitative and qualitative data in complex projects and the ethics of data.
+
+📫 Contact Me
+Email: albertobernalduplat@gmail.com
+LinkedIn: linkedin.com/in/alberto-bernal-duplat-90a283a2
+😄 Pronouns
+He/Him
+
+⚡ Fun Fact
+I love analyzing sports performance data and predicting event outcomes using predictive models.
 
 
-# # 👋 Hello! I'm **Alberto Bernal Duplat**
-
-I am a **Data Scientist** and **Data Analyst** specializing in **business**, **culture**, and **sports**. My background as a **lawyer** provides me with a unique perspective to work on projects related to **data governance** and **data ethics**, ensuring that the solutions I develop are not only innovative but also responsible and aligned with the best legal practices.
-
-Throughout my career, I have worked with data to help organizations make informed decisions and optimize their processes. My areas of interest include:
-
-- 🏅 **Sports Data Analysis**: Using data to improve athlete and team performance, as well as generating valuable insights for the sports industry.
-- 📊 **Business and Culture**: Analyzing cultural trends and their impact on business strategies, along with implementing data-driven solutions to enhance business efficiency.
-- 🔍 **Data Governance**: Ensuring that data is managed and used in a secure, ethical manner and in compliance with regulations.
-
-### 💻 **Key Skills:**
-- **Python**, **R**, and **SQL** for data analysis and machine learning.
-- Experience with **Tableau**, **Power BI**, and other data visualization tools.
-- Deep knowledge of **data governance** and regulatory compliance.
-- Ability to combine quantitative and qualitative data in complex projects.
-
-### 🔭 **I’m currently working on:**
-- Developing data-driven solutions to optimize team performance and enhance business decision-making.
-
-### 🌱 **I’m currently learning:**
-- New techniques in **machine learning** and **deep learning**, as well as emerging tools in **data analytics**.
-
-### 👯 **I’m looking to collaborate on:**
-- Innovative projects using data to transform industries, especially sports, culture, and business.
-
-### 🤔 **I’m looking for help with:**
-- Implementing advanced **machine learning** models and **data governance** in highly regulated environments.
-
-### 💬 **Ask me about:**
-- Combining quantitative and qualitative data in complex projects, and data ethics in the context of governance.
-
-### 📫 **How to reach me:**
-- You can send me an email at: albertobernalduplat@gmail.com or connect with me on LinkedIn: linkedin.com/in/alberto-bernal-duplat-90a283a2
-
-### 😄 **Pronouns:**
-- He/Him
-
-### ⚡ **Fun fact:**
-- I love analyzing sports performance data and predicting outcomes of sports events with predictive models.
 
 
-<!--
-**albertobd2024/albertobd2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
