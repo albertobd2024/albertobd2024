@@ -1,5 +1,6 @@
 
-![Diseño Cientifico de datos  Alberto Bernal](https://github.com/user-attachments/assets/1ff11c20-fc86-42b7-a431-ca1415b829dd)
+![Diseño Alberto Bernal](https://github.com/user-attachments/assets/df02326a-898a-4df6-98c1-cc0c68e2fa0c)
+
 
 
 
