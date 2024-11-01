@@ -1,12 +1,6 @@
 ![logo3-Github-Alberto-Bernal_1](https://github.com/user-attachments/assets/7f9103e3-7cfb-4c3b-96dd-06cb16e0ac1e)
 
 
-
-
-
-
-
-
 👋 Hello! I’m Alberto Bernal Duplat
 
 I am a Data Scientist and Analyst specializing in business, culture, and sports. My background as a lawyer provides me with a unique perspective on data governance and ethics.
@@ -23,11 +17,16 @@ I am a Data Scientist and Analyst specializing in business, culture, and sports.
 
 Languages and Libraries:
 
-Python 🐍#3776AB
+Python 🐍
+
 Pandas
+
 NumPy
+
 Scikit-Learn
+
 TensorFlow
+
 MySQL 🗄️
 Visualization:
 
