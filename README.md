@@ -22,7 +22,7 @@ I am a Data Scientist and Analyst specializing in business, culture, and sports.
 
 Languages and Libraries:
 
-Python 🐍
+Python 🐍#3776AB
 Pandas
 NumPy
 Scikit-Learn
