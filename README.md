@@ -1,5 +1,5 @@
+![image](https://github.com/user-attachments/assets/e5716fe0-2112-4287-b90d-70c64ca93b25)
 
-![banner github1](https://github.com/user-attachments/assets/bda2016f-1bb9-4971-8254-89af3ddadd8c)
 
 👋 Hello! I’m Alberto Bernal Duplat
 
