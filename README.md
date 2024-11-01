@@ -1,80 +1,9 @@
 
 ![banner github1](https://github.com/user-attachments/assets/bda2016f-1bb9-4971-8254-89af3ddadd8c)
 
-
-
-
-
-
-👋 ¡Hola! Soy Alberto Bernal Duplat
-
-Soy un Data Scientist y Data Analyst especializado en negocios, cultura y deportes. 
-
-Mi formación como abogado me brinda una perspectiva única en data governance y ética de los datos.
-
-🌟 Mis Áreas de Interés
-
-🏅 Análisis de Datos en Deportes: Mejora del rendimiento de atletas y equipos, generando insights valiosos para la industria.
-
-📊 Negocios y Cultura: Análisis de tendencias culturales y su impacto en estrategias comerciales.
-
-🔍 Data Governance: Gestión segura y ética de datos, alineada con regulaciones.
-
-💻 Habilidades Clave
-
-Lenguajes y Bibliotecas:
-
-Python 🐍
-Pandas
-NumPy
-Scikit-Learn
-TensorFlow
-
-MySQL 🗄️
-
-Limpieza 
-Datawrangler 
-
-Visualización:
-
-Tableau 📈
-Power BI 📊
-Google (Looker) 📊
-Tecnologías:
-
-Apache 🌐
-
-
-🔭 Actualmente Estoy Trabajando en:
-Desarrollar soluciones basadas en datos para optimizar el rendimiento deportivo y mejorar la toma de decisiones empresariales.
-
-🌱 Aprendiendo:
-Nuevas técnicas de machine learning y herramientas emergentes en data analytics.
-
-🤝 Buscando Colaborar en:
-Proyectos innovadores en el ámbito deportivo, cultural y de negocios.
-
-🤔 Pregúntame Sobre:
-La combinación de datos cuantitativos y cualitativos en proyectos complejos y la ética de los datos.
-
-📫 Contáctame:
-
-Correo: albertobernalduplat@gmail.com
-
-LinkedIn: linkedin.com/in/alberto-bernal-duplat-90a283a2
-
-😄 Pronombres:
-Él/ellos
-
-⚡ Dato Curioso:
-Me encanta analizar datos de rendimiento deportivo y predecir resultados de eventos con modelos predictivos.
-
-********************************************************************************************************************
-********************************************************************************************************************
-
 👋 Hello! I’m Alberto Bernal Duplat
 
-I am a Data Scientist and Analyst who specializes in business, culture, and sports. My background as a lawyer provides me with a unique perspective on data governance and ethics.
+I am a Data Scientist and Analyst specializing in business, culture, and sports. My background as a lawyer provides me with a unique perspective on data governance and ethics.
 
 🌟 My Areas of Interest
 
