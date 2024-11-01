@@ -1,4 +1,5 @@
-![rsz_logo3-github-alberto-bernal_1](https://github.com/user-attachments/assets/2de4b216-93f0-471d-8a89-d0bb86a5404f)
+![logo3-Github-Alberto-Bernal_1](https://github.com/user-attachments/assets/7f9103e3-7cfb-4c3b-96dd-06cb16e0ac1e)
+
 
 
 
