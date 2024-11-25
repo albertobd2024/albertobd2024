@@ -1,4 +1,5 @@
-![diseño ejecutivo github](https://github.com/user-attachments/assets/412284b3-b742-4d13-bb80-7b8f5e4ded09)
+![github data sports](https://github.com/user-attachments/assets/77338ad5-b190-4fa2-bba7-3a57d9319569)
+
 
 
 
