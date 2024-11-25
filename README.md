@@ -1,4 +1,5 @@
-![logo3-Github-Alberto-Bernal_1](https://github.com/user-attachments/assets/7f9103e3-7cfb-4c3b-96dd-06cb16e0ac1e)
+![diseño ejecutivo github](https://github.com/user-attachments/assets/412284b3-b742-4d13-bb80-7b8f5e4ded09)
+
 
 
 👋 Hello! I’m Alberto Bernal Duplat
